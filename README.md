@@ -10,3 +10,6 @@ developer.android.com をシェアしたいのに irina-redesign.android.com と
 というアプリを衝動的につくった。
 
 irina-redesign.android.com がそのうちちゃんと表示されるようになって、要らなくなるかも知れない。
+
+
+[!['Google Play で手に入れよう'](https://play.google.com/intl/en_us/badges/images/generic/ja_badge_web_generic.png)](https://play.google.com/store/apps/details?id=io.github.yusukeiwaki.irina_proxy&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
